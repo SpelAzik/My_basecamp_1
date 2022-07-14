@@ -4,12 +4,12 @@ Here simple authentication project.
 For instance, Log in, Log out, Sign up, Forgot your password and also CRUD(create, read, update, delete).
 If you want to get some experience you need to follow description as shown below.
 
-Note: this description for windows users.
+ <font size=2> Note: this description for windows users.</font> 
 
-* Text editor (VSCode)
+* <font size=1>Text editor (VSCode)</font> 
     You can download and install with this URL: https://code.visualstudio.com/
 
-* Install Ruby
+* <font size=1>Install Ruby</font> 
     First of all check your computer, you have already install or not.
 
         ruby -v
@@ -20,6 +20,14 @@ Note: this description for windows users.
 
     URL: https://rubyinstaller.org/
 
-        
 
-* Install (or check installation of) NodeJS and Yarn
+* <font size=1>Install (or check installation of) NodeJS and Yarn</font> 
+
+    <font size=2>NodeJS</font> 
+
+    To see if you have node already installed, pull up a PowerShell window and type in node --version followed by enter.
+
+    URL: https://nodejs.org/en/
+
+     ![alt text](https://img-c.udemycdn.com/redactor/raw/2020-02-19_09-17-29-43996a8c160e2be3f99fc8dc523969c6.png)
+
