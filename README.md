@@ -16,7 +16,7 @@ Note: this description for windows users.
 
     If get some red color's error it means you need to install Ruby
         
-        ![alt text](https://img-c.udemycdn.com/redactor/raw/2020-02-19_08-50-19-ed6e2eb5ee8c77bdc12d0e4284a4bd91.png)
+    ![alt text](https://img-c.udemycdn.com/redactor/raw/2020-02-19_08-50-19-ed6e2eb5ee8c77bdc12d0e4284a4bd91.png)
 
     URL: https://rubyinstaller.org/
 
